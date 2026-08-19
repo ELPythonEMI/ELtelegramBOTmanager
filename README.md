@@ -1,4 +1,4 @@
-# Telegram Bot Manager
+# EL Telegram Bot Manager
 
 Interfaccia grafica desktop per gestire un bot Telegram privato — avvia e ferma il bot, invia messaggi alla bacheca, gestisce gli utenti autorizzati, tutto senza toccare il codice.
 
